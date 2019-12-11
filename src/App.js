@@ -121,9 +121,10 @@ function App() {
               duration={200}
             />
           </h1>
-
+          {/* 
           <input type="text" value={counter} onChange={handleChange} />
           <button onClick={handleSubmit}>wea</button>
+          */}
         </div>
         <div className="flex-1">
           <canvas id="qr" />
