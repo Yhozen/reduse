@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reduse/static/css/main.cbc15cfc.chunk.css",
-    "main.js": "/reduse/static/js/main.d07cb73a.chunk.js",
-    "main.js.map": "/reduse/static/js/main.d07cb73a.chunk.js.map",
+    "main.js": "/reduse/static/js/main.03af48a2.chunk.js",
+    "main.js.map": "/reduse/static/js/main.03af48a2.chunk.js.map",
     "runtime-main.js": "/reduse/static/js/runtime-main.d8055c4c.js",
     "runtime-main.js.map": "/reduse/static/js/runtime-main.d8055c4c.js.map",
     "static/js/2.9335c2a6.chunk.js": "/reduse/static/js/2.9335c2a6.chunk.js",
     "static/js/2.9335c2a6.chunk.js.map": "/reduse/static/js/2.9335c2a6.chunk.js.map",
     "index.html": "/reduse/index.html",
-    "precache-manifest.41d3a2a505397b79b2823ad75fc9949e.js": "/reduse/precache-manifest.41d3a2a505397b79b2823ad75fc9949e.js",
+    "precache-manifest.50a527758b0e57227435874d29126210.js": "/reduse/precache-manifest.50a527758b0e57227435874d29126210.js",
     "service-worker.js": "/reduse/service-worker.js",
     "static/css/main.cbc15cfc.chunk.css.map": "/reduse/static/css/main.cbc15cfc.chunk.css.map",
     "static/js/2.9335c2a6.chunk.js.LICENSE": "/reduse/static/js/2.9335c2a6.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d8055c4c.js",
     "static/js/2.9335c2a6.chunk.js",
     "static/css/main.cbc15cfc.chunk.css",
-    "static/js/main.d07cb73a.chunk.js"
+    "static/js/main.03af48a2.chunk.js"
   ]
 }

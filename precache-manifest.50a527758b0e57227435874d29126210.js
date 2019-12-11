@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39b5256c38c4419b8d7d18190e83c8b8",
+    "revision": "726e51413029bafbcef4a6dcabe838df",
     "url": "/reduse/index.html"
   },
   {
-    "revision": "effe85dd6d661678a55e",
+    "revision": "5da017800809913a3e31",
     "url": "/reduse/static/css/main.cbc15cfc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reduse/static/js/2.9335c2a6.chunk.js.LICENSE"
   },
   {
-    "revision": "effe85dd6d661678a55e",
-    "url": "/reduse/static/js/main.d07cb73a.chunk.js"
+    "revision": "5da017800809913a3e31",
+    "url": "/reduse/static/js/main.03af48a2.chunk.js"
   },
   {
     "revision": "e9c56541cfe48de8fa56",
