@@ -62,6 +62,7 @@ function App() {
     }
     setCounter(state => state + 5)
   }
+
   const handleChange = event => {
     setCounter(event.target.value)
   }
@@ -70,9 +71,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="flex-2">
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
           {cashier &&
             cashier.products &&
             values(
